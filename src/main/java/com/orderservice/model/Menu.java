@@ -3,6 +3,9 @@ package com.orderservice.model;
 public class Menu {
     int mid;
     int cid;
+    /**
+     * 菜单名称
+     */
     String mname;
     float price;
 
